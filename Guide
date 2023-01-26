@@ -1,0 +1,12 @@
+1)  Download Django
+    Open CMD type: pip install Django
+
+
+1st Go to MainSite and open CMD using right click
+Run Command to run the server : python manage.py runserver
+
+copy the http link
+Open Crome and paste the link : http://127.0.0.1:8000/
+
+
+
