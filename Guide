@@ -2,11 +2,20 @@
     Open CMD type: pip install Django
 
 
-1st Go to MainSite and open CMD using right click
-Run Command to run the server : python manage.py runserver
+2)Open Bicycle-Lending Folder
+Then Open Mainsite Folder There you  will find manage file. If You find manage file.
+Then Right-Click(Dont select file) Open Command Prompt or Open in Terminal
 
-copy the http link
-Open Crome and paste the link : http://127.0.0.1:8000/
+3) Run Command to run the server : python manage.py runserver
 
+4) copy the http link
+
+To open User Interface
+Open Crome and paste the link : http://127.0.0.1:8000/shop/
+
+To open Admin Interface (This is the SQLlite Database here you can add product)
+Open Crome and paste the link : http://127.0.0.1:8000/admin/
+Username : cycle
+Password : 12345
 
 
